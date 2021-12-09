@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fredleee.github.io</id>
     <title>松蚁英语</title>
-    <updated>2021-12-09T10:16:36.982Z</updated>
+    <updated>2021-12-09T10:37:29.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fredleee.github.io"/>
     <link rel="self" href="https://fredleee.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://fredleee.github.io/images/avatar.png</logo>
     <icon>https://fredleee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 松蚁英语</rights>
+    <entry>
+        <title type="html"><![CDATA[公元二零二一年十二月九日--流水账]]></title>
+        <id>https://fredleee.github.io/post/gong-yuan-er-ling-er-yi-nian-shi-er-yue-jiu-ri-liu-shui-zhang/</id>
+        <link href="https://fredleee.github.io/post/gong-yuan-er-ling-er-yi-nian-shi-er-yue-jiu-ri-liu-shui-zhang/">
+        </link>
+        <updated>2021-12-09T10:19:58.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="早晨">早晨</h2>
+<p>今晨，约half past 6，吾儿地瓜小咳一声，惊，恐继哭也。然并卵，瓜哥转而开怀大笑，咯咯咯。</p>
+<p>颇有些时日没听见瓜哥睡梦中如此happy。待本人看看监控中能否将此片段保存，甚是nice memory.</p>
+<p>起床，穿上篮球鞋，老婆问我今天打球？鄙人曰：yes.</p>
+<h2 id="上午至中午">上午至中午</h2>
+<p>正事基本没干，“研究” gridea、github desktop、typro、picgo这一套流程怎么走通。奈何鄙人不懂技术，只能扒拉网文，还好目前算是通畅了😃</p>
+<h2 id="正午">正午</h2>
+<p>骆总喊我吃外卖，今儿口味不错，奈何小小感冒，口味不佳。好处也是有的，没有吃撑。</p>
+<h2 id="下午">下午</h2>
+<p>稀里糊涂，偶然看了一篇文章，蔡骥鸣的一篇文章<a href="http://media.js-fz.cn:8090/n274/20210915/i8601.html">齐天的山，连海的云</a>。文章写得甚好，我爱我的家乡，即使我并不知道我爱她什么。</p>
+<h2 id="晚上">晚上</h2>
+<p>马上去打篮球了，今天是室内场，奥利给。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[888]]></title>
         <id>https://fredleee.github.io/post/888/</id>
