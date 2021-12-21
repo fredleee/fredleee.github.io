@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fredleee.github.io</id>
     <title>松蚁英语</title>
-    <updated>2021-12-09T10:37:29.991Z</updated>
+    <updated>2021-12-21T04:36:26.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fredleee.github.io"/>
     <link rel="self" href="https://fredleee.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://fredleee.github.io/images/avatar.png</logo>
     <icon>https://fredleee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 松蚁英语</rights>
+    <entry>
+        <title type="html"><![CDATA[被一张图惊艳到了]]></title>
+        <id>https://fredleee.github.io/post/bei-yi-zhang-tu-liang-yan-dao-liao/</id>
+        <link href="https://fredleee.github.io/post/bei-yi-zhang-tu-liang-yan-dao-liao/">
+        </link>
+        <updated>2021-12-21T04:34:57.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="被一张图惊艳到了">被一张图惊艳到了</h1>
+<p>日常刷推，刷到一张城市图，已经刷过去了，觉得色彩真好看。<br>
+点开图片，被惊艳到。<br>
+照片上方，一架飞机飞过。<br>
+如果没有这架飞机，这是一张还不错的普通的城市照。<br>
+有了这架飞机，莫名觉得舒服，似乎出现在任何其他位置都不合适。<br>
+我把它设置为iPhone壁纸，太舒服了。</p>
+<blockquote>
+<p>图片作者：相沢亮/ Aizawa Ryo @aizawa0192<br>
+图片标题：PM4:00</p>
+</blockquote>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/fredleee/tupian//tupian/202112211201116.jfif" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公元二零二一年十二月九日--流水账]]></title>
         <id>https://fredleee.github.io/post/gong-yuan-er-ling-er-yi-nian-shi-er-yue-jiu-ri-liu-shui-zhang/</id>
@@ -28,15 +48,6 @@
 <p>稀里糊涂，偶然看了一篇文章，蔡骥鸣的一篇文章<a href="http://media.js-fz.cn:8090/n274/20210915/i8601.html">齐天的山，连海的云</a>。文章写得甚好，我爱我的家乡，即使我并不知道我爱她什么。</p>
 <h2 id="晚上">晚上</h2>
 <p>马上去打篮球了，今天是室内场，奥利给。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[888]]></title>
-        <id>https://fredleee.github.io/post/888/</id>
-        <link href="https://fredleee.github.io/post/888/">
-        </link>
-        <updated>2021-12-09T01:58:53.000Z</updated>
-        <content type="html"><![CDATA[<p>8888888</p>
 ]]></content>
     </entry>
 </feed>
