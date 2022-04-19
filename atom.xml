@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://fredleee.github.io</id>
     <title>松蚁英语</title>
-<<<<<<< HEAD
-    <updated>2022-04-19T07:36:26.322Z</updated>
-=======
-    <updated>2022-02-22T08:59:21.757Z</updated>
->>>>>>> 6d5fd538dcc3dd7a621caa4b0d3d4702ce534b2d
+    <updated>2022-04-19T07:40:55.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://fredleee.github.io"/>
+    <link rel="self" href="https://fredleee.github.io/atom.xml"/>
     <subtitle>Hey 朋友</subtitle>
-<<<<<<< HEAD
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://fredleee.github.io/images/avatar.png</logo>
+    <icon>https://fredleee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 松蚁英语</rights>
     <entry>
         <title type="html"><![CDATA[666]]></title>
-        <id>http://localhost:4000/post/666/</id>
-        <link href="http://localhost:4000/post/666/">
+        <id>https://fredleee.github.io/post/666/</id>
+        <link href="https://fredleee.github.io/post/666/">
         </link>
         <updated>2021-12-23T15:09:11.000Z</updated>
         <content type="html"><![CDATA[<div class="output_wrapper" id="output_wrapper_id" style="font-size: 14px; color: rgb(62, 62, 62); line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif; background-image: linear-gradient(90deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%), linear-gradient(360deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%); background-size: 20px 20px; background-position: center center;"><blockquote style="line-height: inherit; display: block; padding: 15px 15px 15px 1rem; font-size: 0.9em; margin: 1em 0px; color: rgb(129, 145, 152); border-left: 6px solid rgb(220, 230, 240); background: rgb(242, 247, 251); overflow: auto; overflow-wrap: normal; word-break: normal;">
@@ -200,45 +195,11 @@
 <hr style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; height: 1px; margin: 1.5rem 0px; border-right: none; border-bottom: none; border-left: none; border-image: initial; border-top: 1px dashed rgb(165, 165, 165);">
 <p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.5em 0px;"><a id="jump_1" style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">我是页内跳转到的位置</a><br><small class="footnote" id="footnote-10" style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;"><a href="#footnote-10" style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;"><sup style="line-height: inherit; vertical-align: super; margin: 0px 2px; padding: 1px 3px; color: rgb(255, 255, 255); background: rgb(102, 102, 102); font-size: 0.7em;">[10]</sup></a>: 注脚跳转位置
 111</small></p></div>]]></content>
-=======
-    <logo>https://fredleee.github.io/images/avatar.png</logo>
-    <icon>https://fredleee.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 松蚁英语</rights>
-    <entry>
-        <title type="html"><![CDATA[关于chain，何止封xian？]]></title>
-        <id>https://fredleee.github.io/post/666/</id>
-        <link href="https://fredleee.github.io/post/666/">
-        </link>
-        <updated>2021-12-23T15:09:11.000Z</updated>
-        <content type="html"><![CDATA[<p>关于chain，何止封xian？<br>
-今天是2022年2月22日，微博热搜提醒我，这一天是星期二，也是壬寅虎年正月廿二。<br>
-封xian之事，是一面照妖镜，是人是鬼照得清清楚楚。<br>
-其实大家都知道症结在哪儿，个体fz好解决，集体fz怎么办？<br>
-wd，是压倒一切的。<br>
-从XX的角度，伤疤最好能通过美容手段，把它掩盖。<br>
-次之，伤疤就在那儿，不要去动它。<br>
-如果伤疤被揭开，XX最怕的是，愈合不了怎么办？<br>
-yl的自由是珍贵的。<br>
-ls不总是进步的。<br>
-当人们获取的信息越来越“窄”，“智”便不断滑坡。<br>
-当独立的思考越来越少，社会便也越来越河蟹。<br>
-钱钟书先生写了一本《围城》<br>
-德意志修过柏林墙<br>
-长者曾曰<br>
-事不关己高高挂起<br>
-沉默是沉默的帮凶<br>
-雪花压垮的是自己<br>
-认清现实，期待明天。<br>
-如果下雨，打伞出行。<br>
-不要停，也许能赢。<br>
-这个世界，有人要你。</p>
-]]></content>
->>>>>>> 6d5fd538dcc3dd7a621caa4b0d3d4702ce534b2d
     </entry>
     <entry>
         <title type="html"><![CDATA[被一张图惊艳到了]]></title>
-        <id>http://localhost:4000/post/bei-yi-zhang-tu-liang-yan-dao-liao/</id>
-        <link href="http://localhost:4000/post/bei-yi-zhang-tu-liang-yan-dao-liao/">
+        <id>https://fredleee.github.io/post/bei-yi-zhang-tu-liang-yan-dao-liao/</id>
+        <link href="https://fredleee.github.io/post/bei-yi-zhang-tu-liang-yan-dao-liao/">
         </link>
         <updated>2021-12-21T04:34:57.000Z</updated>
         <content type="html"><![CDATA[<h1 id="被一张图惊艳到了">被一张图惊艳到了</h1>
@@ -257,8 +218,8 @@ ls不总是进步的。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[公元二零二一年十二月九日--流水账]]></title>
-        <id>http://localhost:4000/post/gong-yuan-er-ling-er-yi-nian-shi-er-yue-jiu-ri-liu-shui-zhang/</id>
-        <link href="http://localhost:4000/post/gong-yuan-er-ling-er-yi-nian-shi-er-yue-jiu-ri-liu-shui-zhang/">
+        <id>https://fredleee.github.io/post/gong-yuan-er-ling-er-yi-nian-shi-er-yue-jiu-ri-liu-shui-zhang/</id>
+        <link href="https://fredleee.github.io/post/gong-yuan-er-ling-er-yi-nian-shi-er-yue-jiu-ri-liu-shui-zhang/">
         </link>
         <updated>2021-12-09T10:19:58.000Z</updated>
         <content type="html"><![CDATA[<h2 id="早晨">早晨</h2>
