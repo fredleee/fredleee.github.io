@@ -2,9 +2,8 @@
   "config": {
     "branch": "master",
     "domain": "https://tiyanjun.github.io",
-    "email": "",
+    "email": "pineantsenglish@gmail.com",
     "platform": "github",
-    "privateKey": "",
     "repository": "tiyanjun.github.io",
     "token": "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",
     "username": "tiyanjun"
